@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CalculerCinqRacines:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CalculerCinqRacines_jar</output-path>
+    <root id="archive" name="CalculerCinqRacines.jar">
+      <element id="module-output" name="CalculerCinqRacines" />
+    </root>
+  </artifact>
+</component>
